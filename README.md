@@ -5,7 +5,7 @@
 Dashy
 
 
-### Get started
+## Get started
 
 Requirements:
 - [Node](http://nodejs.org/)
