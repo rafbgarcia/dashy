@@ -1,6 +1,6 @@
 [![Build Status](https://snap-ci.com/rafbgarcia/dashy/branch/master/build_image)](https://snap-ci.com/rafbgarcia/dashy/branch/master)
 
-### Dashy
+#### Dashy
 
 Dashy
 
